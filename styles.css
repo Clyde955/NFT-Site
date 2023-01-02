@@ -362,12 +362,10 @@ border-radius: 4px;
     height: 425px;
     width: 400px;
     border-radius: 20px;
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%),
-    url('/images/monkey-2.jpg');
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%),url('/images/monkey-2.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    position: relative;
-    color: #fff;
+    position: relati   color: #fff;
 }
 
 .images__card:nth-child(3) {
@@ -375,8 +373,7 @@ border-radius: 4px;
     height: 425px;
     width: 400px;
     border-radius: 20px;
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%),
-    url('/images/monkey-3.jpg');
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/images/monkey-3.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     position: relative;
@@ -388,8 +385,7 @@ border-radius: 4px;
     height: 425px;
     width: 400px;
     border-radius: 20px;
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%),
-    url('/images/cat.jpg');
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/images/cat.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     position: relative;
@@ -401,8 +397,7 @@ border-radius: 4px;
     height: 425px;
     width: 400px;
     border-radius: 20px;
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%),
-    url('/images/cat-2.jpg');
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/images/cat-2.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     position: relative;
@@ -414,8 +409,7 @@ border-radius: 4px;
     height: 425px;
     width: 400px;
     border-radius: 20px;
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%),
-    url('/images/monkey-4.jpg');
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/images/monkey-4.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     position: relative;
